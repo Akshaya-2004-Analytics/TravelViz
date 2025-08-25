@@ -10,7 +10,8 @@ from streamlit_chat import message
 import time
 from pathlib import Path
 
-import pyrebase
+import pyrebase4 as pyrebase
+
 import os
 from dotenv import load_dotenv
 
