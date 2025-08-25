@@ -43,5 +43,5 @@ TravelViz guides users through visual insights and data stories about travel pat
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/TravelViz.git
+   git clone https://github.com/Akshaya-2004-Analytics/TravelViz.git
    cd TravelViz
