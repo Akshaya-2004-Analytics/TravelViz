@@ -10,4 +10,5 @@ git+https://github.com/nhorvath/Pyrebase4.git
 setuptools
 gcloud
 oauth2client
+python-dotenv
 
